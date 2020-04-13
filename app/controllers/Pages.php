@@ -7,6 +7,7 @@
     public function index(){
       
 
-      
+      $name = '';
+      $names = 33;
     }
   }
